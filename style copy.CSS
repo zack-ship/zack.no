@@ -1,0 +1,92 @@
+body{
+      background-image: url(suka1.gif);
+    background-position: center center;
+    background-repeat no-repeat;
+    background-size: cover;
+    background-attachment:  fixed;
+    
+    
+    
+
+}
+.nampa{
+    width: 200px;
+    position: absolute;
+    top: 500px;
+    left: 245px;
+
+}
+.susuka{ width: 200px;
+       margin-top: 25px;
+      margin-left: 250px;
+}  
+.pollito{
+      width: 400px; 
+      margin-top:1px;
+      margin-left: 200px;
+}                     
+.foto2{
+    width: 200px;    
+    position: absolute;
+    top:100px;
+    left: 50px;
+    
+
+}
+
+.no2{width: 200px;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+
+}
+.no1{ width: 300px;
+    position: absolute;
+    top: 300px;
+    left: 225px;
+
+}
+
+.yes{ color: rgb(8, 118, 186);
+    width: 400px; 
+    margin-top:1px;
+    margin-left: 350px;
+     justify-content: center;
+     background-image: url(babymetal.webp);
+     border: 2px solid black ;
+     border-radius: 50px;
+     cursor: pointer;
+     padding: 25px;
+    text-decoration: none;
+    
+     transition: 5s ease;
+    }
+    .yes:hover {
+        background-image: url(abrazopollo.gif);
+
+    }
+    
+.no{ 
+        justify-content: center;
+        color: rgb(8, 118, 186);
+        background-image: url(babymetal.webp);
+        border: 2px solid black ;
+        border-radius: 50px;
+        cursor: pointer;
+        padding: 25px;
+        text-decoration: none;
+        transition: 5s ease; }
+
+    .no:hover{ background-image: url(abrazopollo.gif);
+         
+        }
+
+
+.inicio{ 
+    position: relative;
+    font-family: fantasy;
+    color: rgb(7, 7, 7);
+    position: relative;
+    text-align:center ;
+
+}
