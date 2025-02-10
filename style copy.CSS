@@ -4,18 +4,27 @@ body{
     background-repeat no-repeat;
     background-size: cover;
     background-attachment:  fixed;
+
+.inicio{ 
+    width: 1000px; 
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px; 
+    position: relative;
+    left: 50px;
+    top:200px;
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+    text-align:center;
+     align-items: center;
+      justify-content: center;
+
+}
     
     
     
 
 }
-.nampa{ 
-    width: 200px;
-    position: absolute;
-    top: 500px;
-    left: 245px;
 
-}
 .susuka{ width: 200px;
        margin-top: 25px;
       margin-left: 250px;
@@ -99,17 +108,3 @@ body{
         }
 
 
-.inicio{ 
-    width: 1000px; 
-    font-family: Arial, Helvetica, sans-serif;
-     font-size: 50px; 
-    position: relative;
-    left: 50px;
-    top:200px;
-    font-family: fantasy;
-    color: rgb(255, 255, 255);
-    text-align:center;
-     align-items: center;
-      justify-content: center;
-
-}
