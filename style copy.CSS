@@ -107,5 +107,13 @@ body{
     .no:hover{ background-image: url(abrazopollo.gif);
          
         }
+@media (mac.width: 600px){
+  .container{
+    pandding:10px;
+    font-size: 14px;
+  }
+
+}
+
 
 
